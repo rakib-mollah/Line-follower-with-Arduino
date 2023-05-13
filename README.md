@@ -22,17 +22,11 @@ Components-
 * 1 USB cable for Arduino
 * Cables, screws and bolts
 
-![Hardware Challenge 0](images/hardware-challenge-0.jpg)
-
-**Hardware Challenge #1 of AI for Robotics**</br>
-Sense the Environment in Some Way
+![Pic 0](images/PXL_20220701_011857319.jpg)
+![Pic 02](images/PXL_20220701_011917530.jpg)
+![Pic 02](images/PXL_20220701_012018290.jpg)
 
 The main challenge was to reduce the speed which was done by a dummy circuit to reduce the current flow.
-
-Video Demonstration:
-![Hardware Challenge 1](images/hardware-challenge-1.png)
-https://youtu.be/YxFP9dMudcE
-
 
 Video Demonstration:
 ![Hardware Challenge 3](images/hardware-challenge-3.png)
