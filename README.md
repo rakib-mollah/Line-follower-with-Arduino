@@ -36,4 +36,4 @@ https://youtu.be/YxFP9dMudcE
 
 Video Demonstration:
 ![Hardware Challenge 3](images/hardware-challenge-3.png)
-https://youtu.be/DaOiyH9NtPE
+[ttps://youtube.com/shorts/1f6npEEj3MA?feature=share](https://youtube.com/shorts/1f6npEEj3MA?feature=share)
