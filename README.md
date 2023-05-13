@@ -28,5 +28,5 @@ Components-
 The main challenge was to reduce the speed which was done by a dummy circuit to reduce the current flow.
 
 Video Demonstration:
-![Hardware Challenge 3](images/hardware-challenge-3.png)
+![pic](images/hardware-challenge-3.png)
 [ttps://youtube.com/shorts/1f6npEEj3MA?feature=share](https://youtube.com/shorts/1f6npEEj3MA?feature=share)
